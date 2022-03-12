@@ -1,0 +1,10 @@
+gcp_credentials = "../creds/gcp-service-account.json"
+gcp_project_id = "<YOUR-PROJECT-ID>"
+gcp_region = "us-west1"
+gcp_zone = "us-west1-a"
+gke_default_nodepool_name= "<DEFAULT-NODEPOOL-NAME>"
+gke_cluster_name = "<CLUSTER-NAME>"
+gke_network = "<VPC-NETWORK-NAME>"
+gke_subnetwork = "<VPC-SUBNETWORK-NAME>"
+gke_zones = ["us-west1-a"]
+gke_sa_name= "<GKE_SERVICE_ACCOUNT_NAME>"

@@ -1,0 +1,5 @@
+creds/
+terraform.tfstate
+.terraform*
+terraform/variables.auto.tfvars
+terraform/terraform.tfstate.backup
